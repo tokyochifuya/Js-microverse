@@ -3,7 +3,7 @@ Mini Projects by Arsalan
 
 A collection of beginner-friendly JavaScript mini projects, categorized by topic. Built for practice and skill-building 💪
 
-## 🧠 Topics Covered
+## 🧠 Topics about to Cover
 
 | Category         | Projects                                                                 |
 |------------------|--------------------------------------------------------------------------|
